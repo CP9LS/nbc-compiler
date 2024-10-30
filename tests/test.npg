@@ -1,7 +1,0 @@
-Forward
-WaitTwoSeconds
-//BackwardFive
-//EmptyWait
-ForwardFive
-WaitFiveSeconds
-EndLoop
